@@ -1,2 +1,3 @@
 Day 01 ==>
-    Today I am going to complete all pending tasks of TWS.. 
+    I’m starting my #90DaysOfDevOps journey to build strong DevOps & Cloud fundamentals through consistent learning..
+    
